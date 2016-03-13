@@ -1,0 +1,39 @@
+* {margin:0}
+body {
+font-family:arial,segoe ui;  
+}
+.wrap {
+width:1000px;
+margin:0 auto;         
+}
+.header {
+width:auto;
+background:#4070FF;
+padding:20px;
+color:white;
+}          
+.main {
+width:100%;
+background:#00FF45;
+}
+.content {
+float:left;
+width:66%;
+background:#00FF20;
+padding:2%;
+min-height:400px;
+}
+.sidebar {
+float:right;
+width:26%;
+background:#00FF40;
+padding:2%;
+}          
+.clear {clear:both}
+.footer {
+float:bottom;
+width:auto;
+padding:5px 10px;
+background:#333;
+color:#fff;
+}
